@@ -75,7 +75,7 @@ await nadra.addNadraDetails("name",id,cnicNumber,familyTree,addr);
 ```
 Access the get function using
 ```bash
-await nadra.allNadraDetails();
+await nadra.getAllNadraDetails();
 ```
 
 
